@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"id":"ej1","cat":"decoracion","name":"Decoración de cumpleaños con arco de globos","price":"","desc":"Arco orgánico, fondo temático, mesa principal y detalles personalizados. Cuéntanos la fecha y la temática.","photo":"","available":true,"example":true},
+    {"id":"ej2","cat":"corporales","name":"Kit de cuidado corporal","price":"","desc":"Crema corporal, splash y exfoliante. Ideal para regalo.","photo":"","available":true,"example":true},
+    {"id":"ej3","cat":"pijamas","name":"Pijama de satín dos piezas","price":"","desc":"Tallas S a XL. Varios colores disponibles.","photo":"","available":true,"example":true}
+  ]
+}
